@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t30uGNYThCdKDvsg+kTHQGrojWmMq9LKWaYlwNMgk8JQOBilY3FAF8vhE+BO8k+na4Ty1JSylZ+J6gaaNXeA6g==",
+  "success": true,
+  "projectFilePath": "/home/zyzf/code/practice3/practice3.csproj",
+  "expectedPackageFiles": [
+    "/home/zyzf/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
